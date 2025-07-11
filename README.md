@@ -13,7 +13,7 @@ I'm sure some of the stories here will eventually be put on
 The Wanderers' Library will have a link to their WL page at the
 top of their Markdown (`.md`) file.
 
-## So, what are "The Realms"
+## So, what are "The Realms"?
 As the name implies, The Realms are a set of interdimensional
 worlds. The Realms itself is actually a universe that
 encapsulates all of these worlds within it, and includes the
@@ -22,13 +22,14 @@ Realms, hence the universal name "The Realms") contains an
 entire universe within it, even if most stories only take place
 in a few locations within the Realms.  
 
-Every story in this repository takes place in The Realms. Which
-Realm a story is set in is defined at the top of the storie's
-Markdown file. Eventually, I plan on sorting the stories into
-folders based on the Realm they take place in.  
+Every story in this repository takes place in The Realms.
+Eventually, I plan on sorting the stories into folders based on
+the Realm they take place in.  
 
-For a list of each of the Realms, plus descriptions see
-[realms.md](realms.md).
+Some of the Realms may not get as much love as others. Which
+Realm I am working in depends on what I'm inspired by and what
+mood I'm in. I will do my best to try and make at least a few
+stories in each of the Realms, but no promises.  
 
 ## Structure
 All of my writings can be found in the [stories](stories/)
