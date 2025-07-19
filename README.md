@@ -32,11 +32,18 @@ mood I'm in. I will do my best to try and make at least a few
 stories in each of the Realms, but no promises.  
 
 ## Structure
-All of my writings can be found in the [stories](stories/)
+All of the actual stories can be found in the [stories](stories/)
 directory, in Markdown (`.md`) files with the name of the file
 being the name of the story. In addition to this, each story
 has a <story_name>.txt file that marks the design for the story,
 made before writing began.  
+
+In addition to the stories directory, there is also the
+[other](other/) directory, which contains various notes or
+pieces of worldbuilding which cannot be called stories. For
+example, in this directory is a [lang.txt](other/lang.txt)
+file where I planned out a very basic language for one of the
+Realms (soon to be named based on the language).  
 
 Writings with multiple words in the title will use snake case
 (i.e. "Lord of the Rings" becomes "lord_of_the_rings.md"), for

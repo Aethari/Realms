@@ -6,8 +6,39 @@ Title options:
 
 ================================================================
 Setting:
+- Rea
+	- Rea is a land covered with golden forests, lakes,
+	  mountains, and the occasional settlement or ocean. At
+	  least, one half of it is. The way Rea orbits around its
+	  star, only half of the planet ever sees the sun. The other
+	  half lives in perpetual shadow, and died a long time ago.
+	  Filled with monsters, darkness, and infinite night, no
+	  Rean has ever seen the dark side and survived.
+	- Magic is prevalent in Rea, with even the most basic
+	  commoner knowing a spell or two. Each individual has their
+	  own spiritual/magical force that they pull from when they
+	  use magic. Magic is very abstract, and can be used to do
+	  almost anything, though it requires some decent skill to
+	  do so.
+	- Long ago, an ancient clan discovered that magic casting
+	  could be refined by channeling it through markings made
+	  on a caster's body. Eventually, this became an art of its
+	  own, and each settlement has a tattoist who creates a
+	  unique tattoo on each settlement member's body. This
+	  tattoo is only created after the person's magic has
+	  manifested, showing its unique shape, like a fingerprint.
+	  The tattoo artist models the tattoo after this
+	  manifestation, making each tattoo a reflection of the
+	  recipient's magical energy.
+
 ----------------------------------------------------------------
 Characters (+ design/notes):
+- Ari (protagonist)
+	- Female
+
+- Iired (teacher/mentor)
+	- Non-Binary (they/them)
+
 ----------------------------------------------------------------
 Other important locations, characters, items, etc:
 
@@ -24,7 +55,7 @@ Notes:
 - Should be broken up into several chapters (2-5), so that the
   story is short, but not too short
 - This story describes Ari as a young person, their lifestyle,
-  etc. After introducing us to Ari and Ari's Realm, the story
+  etc. After introducing us to Ari and Rea, the story
   will shift to a narrative about how Ari learned about the
   other Realms, and was taught to be an interdimensional
   traveller.

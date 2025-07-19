@@ -1,0 +1,63 @@
+Language info for Rea.
+
+This isn't really a language per se, but it defines all of what
+would be the language's syllables and how to pronounce them. I
+created this so that I could have a much easier time creating a
+new culture for <realm name>, as well as being able to just mash
+syllables together to make names.
+
+Each entry in the below table describes a single character in
+the language. Each character has a distinct pronuciation, and in
+universe, a symbol that is written for it. Functionally, this
+makes the language structuraly similar to many Asian languages,
+albeit much simpler.
+
+Table explanation:
+	- Character name: simply how the character is written in
+	                  English, nothing special here
+	- Character pronunciation: How to say the character. I am
+	                           a native English speaker, so
+							   this is biased towards English.
+							   I'm sure if this language was
+							   used by a population, a unique
+							   accent would develop over time.
+
+ -------------------------------
+/       The Rean Language       \
++================+===============+
+| Character name |   Character   |
+|  (in english)  | pronunciation |
++----------------+---------------+
+|       a        |      ey       | - the characters in this section are used to form
+|       i        |      ee       |   the other characters in the table, with each one
+|       e        |      eh       |   having a beginning and ending with each of the
+|       s        |     ess       |   other characters
+|       r        |     rah       |
+|       o        |      oh       |
++----------------+---------------+
+|       aa       |      ah       |
+|     ia, ea     |    ee-ah      |
+|       sa       |   saw, sah    |
+|       ra       |    er-ah      |
++----------------+---------------+
+|       ad       |    ah-duh     |
+|       id       |    ee-duh     |
+|       ed       |    eh-duh     |
+|       sed      |    seh-duh    |
+|       erd      |    er-duh     |
+|       od       |    o-ed       |
++----------------+---------------+
+|       ar       |  ah-rah (arr) |
+|       ir       | ee-rah (ear)  |
+|       er       |     rah       |
+|      ser       |    s-rah      |
+|       or       |   o-rah (ore) |
++----------------+---------------+
+|       ao       |      ow       |
+|       io       |     ee-oh     |
+|       eo       |     ey-oh     |
+|       so       |      so       |
+|       ro       |      ro       |
+|       oo       |  oo (long o)  |
++----------------+---------------+
+
