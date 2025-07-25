@@ -33,14 +33,89 @@ Setting:
 
 ----------------------------------------------------------------
 Characters (+ design/notes):
-- Ari (protagonist)
-	- Female
+- Ari Edea (protagonist)
+	General notes:
+	- Uses the magic of the 6 elements, but has only mastered
+	  two (still an impressive feat)
+	- Comes from a small tribe relatively distanced from normal
+	  Rean society
+	  spellcasters in the tribe
+	- Parents are still alive (crazy that we have to specify
+	  that, but considering how many protagonists are 
+	  orphans...)
 
-- Iired (teacher/mentor)
+	Personality:
+	- A strong community member who loves her tribe and helps
+	  them out when she can
+	- Despite her attatchment to her community, she can't help
+	  but wonder what life outside of their little encampment/
+	  village would be like
+	- Has very little/no interest in romantic or sexual
+	  relationships
+	- Has trained extensively in magic and, because of her rural
+	  background, has good survival skills
+	- Intelligent and a fast learner - the kind of person who
+	  would learn multiple languages quickly
+	- Aroace (like me!)
+
+	Appearance:
+	- Female
+	- Late teens (17 or 18)
+	- Dark brown hair - as her magic begins to get more powerful,
+	  it gains a red sheen (glows when casting? - something like
+	  that)
+	- Average weight, with some decently defined muscles (but
+	  that's to be expected, living in a group of forest
+	  warriors)
+	- Has a fire tatoo reaching up from her wrist to her
+	  shoulder, with an arcane circle on her palm
+	- Often wears a light, casual robe made of shimmery red/orange
+	  material (she made it herself)
+
+- Iired Ediaor (teacher/mentor)
+	General notes:
+	- Comes from Rea as well, but doesn't visit very often due to
+	  past conflicts (plus, they might be recognized)
+	- Has trained for many years, even after their teacher left,
+	  and have developed reality manipulation powers that would
+	  be highly regarded even by past travellers
+	- Has also trained in Rean magic during their time in Rea,
+	  but not the 6 elements like Ari
+
+	Personality:
 	- Non-Binary (they/them)
+	- Enjoys what they do in the Realms, but is ready to move on
+	- Have gotten bored of being the traveller, and are content
+	  with their contributions
+	- Is not completely on board with some of the traditions
+	  regarding the traveller, and aims to change things when
+	  they train Ari
+	- Very mindful; takes their time before they speak,
+	  meditates daily, and knows how to phrase words to get
+	  their point across clearly (something I will need to
+	  practice lol)
+	- Does not take strong opinions on most topics, and is
+	  indifferent to things that they don't care about
+	
+	Appearance:
+	- While Iired's physical appearance doesn't change (at least
+	  not very often), their outfit changes daily, and they have
+	  clothing from each of the Realms, which they often cycle
+	  through based on what mood they are in
+	- Outfits share a commanlity in color; they are all shades of
+	  light gray or white
+	- Hair and eye color is also a reflection of their mood (they
+	  don't have set colors for their moods, if it comes up in
+	  writing just pick a color in the moment)
+	- Shoulder length, semi-curly hair
+	- Medium build, muscular, could clearly hold their own in a
+	  fight
+	- Tattoo of the sun on their back that they channel their
+	  magic through
 
 ----------------------------------------------------------------
 Other important locations, characters, items, etc:
+- <name for Ari's tribe here>
 
 ================================================================
 Core conflict:
@@ -70,7 +145,7 @@ Notes:
   Realm is in danger, etc. Ari already knows basic magic, as
   they were born into a special clan. They can harness the
   6 elements of humanity, etc. The person (henceforth known as
-  "the Teacher" chose Ari not just because Ari was born into
+  "Iired" chose Ari not just because Ari was born into
   this special clan, but because they show special care in
   the little things of the world, and their dedication to
   something once they put their mind to it.
@@ -78,10 +153,10 @@ Notes:
   travel to and learn from the other Realms could make them
   the most adept magic user in all of the Realms (unlock max
   potential kinda thing)
-- The Teacher could be someone close to Ari, like the person
+- Iired could be someone close to Ari, like the person
   who taught them magic or something ("i have been watching
   the clan, and you're the best candidate" kind of thing).
-- The Teacher could want to break the tradition of only one IT
+- Iired could want to break the tradition of only one IT
   (interdimensional traveller), and informs Ari of the
   tradition, but instructs them to build a team or army of
   people to help defend the Realms. This could come with the
@@ -89,6 +164,11 @@ Notes:
   therefore letting the "secret" out, but allowing people
   from any Realm to take part in the force (this would be
   an interesting arc, but kinda ruins some of the mystery
-  of the place). Ultimately, at the end of training, once the
-  Teacher is gone, Ari must make the choice whether or not to
-  do this.
+  of the place). Ultimately, at the end of training, once Iired
+  is gone, Ari must make the choice whether or not to do this.
+- A possible point of conflict (contributes to overall conflict)
+  could be that Ari could seldom return to Rea due to the
+  potential recognition by the citizens.
+- When training Ari, Iired also gets outfits from each of the 
+  Realms for her, so she can blend in. She still prefers wearing
+  her handmade robe though.
